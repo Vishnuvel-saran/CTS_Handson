@@ -1,4 +1,5 @@
 Module3_DatabaseIntegration_Handson01_VISHNUVEL SARARN D 
+
 Overview
 This repository contains the solutions for Hands-On 1 of Module 3 – Database Integration, completed as part of the Digital Nurture 5.0 – Python Full Stack Engineer Track.
 
@@ -23,13 +24,13 @@ ALTER TABLE Operations
 Database Normalization (1NF, 2NF, 3NF)
 Referential Integrity
 Repository Structure
-Module3_DatabaseIntegration_Handson01_VishalSiva/
+Module3_DatabaseIntegration_Handson01_VishnuvelSaran/
 │
-├── Module3_DatabaseIntegration_Handson01_Task01_VishalSiva.sql
-├── Module3_DatabaseIntegration_Handson01_Task02_VishalSiva.sql
-├── Module3_DatabaseIntegration_Handson01_Task03_VishalSiva.sql
-├── Module3_DatabaseIntegration_Handson01_Task03_Output_VishalSiva.png
-├── Module3_DatabaseIntegration_Handson01_Task03_Result_VishalSiva.png
+├── Module3_DatabaseIntegration_Handson01_Task01_VishnuvelSaran.sql
+├── Module3_DatabaseIntegration_Handson01_Task02_VishnuvelSaran.sql
+├── Module3_DatabaseIntegration_Handson01_Task03_VishnuvelSaran.sql
+├── Module3_DatabaseIntegration_Handson01_Task03_Output_VishnuvelSaran.png
+├── Module3_DatabaseIntegration_Handson01_Task03_Result_VishnuvelSaran.png
 └── README.md
 Learning Outcomes
 Designed a relational database schema using SQL DDL.
